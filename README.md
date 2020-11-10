@@ -8,7 +8,7 @@
 
 3 Things About Me:
 
-I am a problem solver and I try my best to see tasks and projects to completion. During my palcement year at Tech Data I recieved 3 awards for collaborating well as part of a team, providing excellent help to customers and for helping a colleague when an issue arose.
+I am a problem solver and I try my best to see tasks and projects to completion. During my palcement year at Tech Data I recieved 3 awards for collaborating well as part of a team on a project, providing excellent help to customers, and for helping a colleague when an issue arose.
 
 - ✅ Some past projects I've worked on:
     - Using VBA to create a stock report that is automatically emailed to computing vendors (during my placement year)
