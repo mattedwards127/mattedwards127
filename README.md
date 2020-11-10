@@ -23,6 +23,7 @@ I am a problem solver and I try my best to see tasks and projects to completion.
     - SQL
     - HTML
     - CSS
+    - XML
     
 
 - 📫 To reach me you can email me at mattedwards1237@gmail.com
