@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Matt Edwards 👋
 
-<!--
-**mattedwards127/mattedwards127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final year student studying computer science with business at Aston University.
 
-Here are some ideas to get you started:
+- 🌱 Currently, I'm learn to program using the Java Servlet API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 One project I'm working on currently is developing a student advice portal for gratuating students to leave advice for first year students.
+
+- 📫 To reach me you can email me at mattedwards1237@gmail.com
+
+
+
+
+
